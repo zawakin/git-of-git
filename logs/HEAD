@@ -2,3 +2,4 @@
 bbc85ba8ce63a31b82686fb134d944201c2c8e68 66c0ff9a70275185194d928a0b2ba0b5c7314e6a zawawahoge <zawawabis@gmail.com> 1560248223 +0900	commit: add foo.txt
 66c0ff9a70275185194d928a0b2ba0b5c7314e6a 66c0ff9a70275185194d928a0b2ba0b5c7314e6a zawawahoge <zawawabis@gmail.com> 1560249595 +0900	checkout: moving from master to branch-1
 66c0ff9a70275185194d928a0b2ba0b5c7314e6a 1717b5707e57b5218f0b85c87923dcc967bb6bf0 zawawahoge <zawawabis@gmail.com> 1560249851 +0900	commit: add bar.txt
+1717b5707e57b5218f0b85c87923dcc967bb6bf0 1f8ca172699c7863580bf796c60ab1d7ca1ae468 zawawahoge <zawawabis@gmail.com> 1560250299 +0900	commit: commit of "add xyz.txt"
